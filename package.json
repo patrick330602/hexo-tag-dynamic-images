@@ -1,0 +1,25 @@
+{
+  "name": "hexo-tag-dynamic-images",
+  "version": "1.0.0",
+  "description": "A Hexo tag plugin to insert two images that can switch according to system theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrick330602/hexo-tag-dynamic-images.git"
+  },
+  "keywords": [
+    "Hexo",
+    "image",
+    "images",
+    "tag"
+  ],
+  "author": "callmepk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/patrick330602/hexo-tag-dynamic-images/issues"
+  },
+  "homepage": "https://github.com/patrick330602/hexo-tag-dynamic-images#readme"
+}
